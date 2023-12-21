@@ -16,8 +16,8 @@ To run My Portfolio locally, follow these steps:
 
 ## Usage
 
-![alt text](./marcs-portfolio/src/assets/Screenshot%202023-12-21%20034750.png )
+![alt text](./src/assets/Screenshot%202023-12-21%20034750.png )
 
 github repo: https://github.com/Marc01710/react-portfolio
 
-deployed application: 
+deployed application: https://git.heroku.com/marcs-react.git
