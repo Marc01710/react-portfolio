@@ -15,8 +15,8 @@ const Footer = () => {
 };
 return (
     <footer style={style}>
-        <p>&copy; 2023 Your Name. All rights reserved.</p>
-        <p>Contact: marc@gmail.com</p>
+        <p>&copy; 2023 Marc. All rights reserved.</p>
+        <p>Contact: Marc@gmail.com</p>
     </footer>
 );
 };
